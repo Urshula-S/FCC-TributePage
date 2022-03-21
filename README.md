@@ -2,7 +2,7 @@
 - Day 1 of the 100 days of code
 - march 21st, 2022
 
-# Tribute-Page
+# Project title
 Tribute page is a page test made within the FreeCodeCamp Curriculum
 
 # Project description

@@ -1,5 +1,5 @@
-#Day
-- day 1 of the 100 days of code
+# Day
+- Day 1 of the 100 days of code
 - march 21st, 2022
 
 # Tribute-Page
